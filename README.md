@@ -63,8 +63,8 @@ A aplicação se destaca por sua interface moderna e responsiva, oferecendo recu
 1. **Clone o repositório**:  
    Faça o clone do repositório para sua máquina local:  
    ```bash
-   git clone (https://github.com/NovaisVieira/Programa-o-para-Dispositivos-M-veis-/tree/main#como-executar-o-projeto)
-   cd <TODO LIST, Programa para dispositivos moveis>
+   https://github.com/NovaisVieira/Programa-o-para-Dispositivos-M-veis-/tree/main#como-executar-o-projeto
+  
 
 2. **Instale as dependências**:
 No diretório do projeto, execute:
