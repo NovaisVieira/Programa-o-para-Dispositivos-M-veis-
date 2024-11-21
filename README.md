@@ -21,6 +21,14 @@ Esta é uma aplicação de gerenciamento de tarefas desenvolvida em **React Nati
 
 ---
 
+## **Video Demonstrativo**
+
+
+https://github.com/user-attachments/assets/a91c4247-3f9d-486b-ae48-91abffeb8078
+
+
+
+---
 ## **Descrição Geral**
 A aplicação se destaca por sua interface moderna e responsiva, oferecendo recursos como:
 - **Adição e personalização de tarefas**: Crie listas personalizadas com descrição detalhada para cada tarefa.
