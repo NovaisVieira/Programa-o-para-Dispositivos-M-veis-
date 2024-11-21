@@ -90,6 +90,4 @@ Para rodar o projeto, utilize:
 - Ou configure um emulador no Android Studio ou Xcode para testar a aplicação localmente.
 
 
-## **Licença**
-Este projeto está licenciado sob a MIT License.
 
