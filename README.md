@@ -13,7 +13,7 @@
 - [Como Executar o Projeto](#como-executar-o-projeto)
 
 
-- [Licença](#licença)
+- [Integrantes do Projeto](Integrante-do-projeto)
 
 ---
 
@@ -91,4 +91,12 @@ Para rodar o projeto, utilize:
 - Ou configure um emulador no Android Studio ou Xcode para testar a aplicação localmente.
 
 
+## **Integrantes do Projeto**
+- Alan Cristian Gomes da Costa 
+- Áquila Novais Vieira 
+- Rauil Rodrigues Gomes 
+- Leandro Lopes Seabra 
+- Lucas Raziel Rodrigues Ferreira 
+- Milene Lissa Pereira 
+- Wilque Pereira da Silva 
 
