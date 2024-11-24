@@ -4,6 +4,7 @@
 
 ## **Índice**
 - [Introdução](#introdução)
+- [Video Demonstrativo](#Video-Demonstrativo)
 - [Descrição Geral](#descrição-geral)
 - [Requisitos](#requisitos)
   - [Funcionais](#funcionais)
