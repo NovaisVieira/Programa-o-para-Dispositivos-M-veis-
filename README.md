@@ -13,7 +13,7 @@
 - [Como Executar o Projeto](#como-executar-o-projeto)
 
 
-- [Integrantes do Projeto](Integrante-do-projeto)
+- [Integrantes do Projeto](Integrantes-do-Projeto)
 
 ---
 
